@@ -1,3 +1,4 @@
+This mini project is complete
 fullstack-docker-app/
 ├── backend/
 │ ├── app.js
